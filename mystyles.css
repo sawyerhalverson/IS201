@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(212, 221, 230);
+}
+
+.externallink {
+  text-decoration: underline;
+}
+
+.black {
+  color: rgb(0, 0, 0);
+}
+
+.italic {
+  font-style: italic;
+}
+
+.darkgray {
+  color: darkgray;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.anchor {
+  text-decoration: underline;
+  font-size: small;
+}
