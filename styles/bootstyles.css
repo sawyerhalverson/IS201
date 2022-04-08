@@ -1,4 +1,9 @@
 
+body{
+  background-color: aliceblue;
+}
+
+
 .unorderedlist {
     list-style-type: none;
     margin: 0;
@@ -21,4 +26,32 @@ li {
   
   li a:hover {
     background-color: #111;
+  }
+
+  .mainbody {
+      width: 50%;
+      padding-top: 50px;
+      padding-right: 30px;
+      padding-bottom: 50px;
+      padding-left: 80px;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .footer {
+    bottom: 10px;
+    height: 30px;
+    right: 5px;
+    left: 5px;
+    color: lightblue;
+    background-color: gray;
+    text-align: center;
+  }
+
+  .caption {
+    font-weight: bold;
+    color: black;
+    font-size: medium;
   }
